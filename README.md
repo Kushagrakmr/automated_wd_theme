@@ -1,0 +1,1 @@
+# automated_advanced_wd_theme
