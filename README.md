@@ -7,11 +7,13 @@ Trying to create a folder/repo where you can download this repo and then start w
   gulp-postcss
   gulp-watch
   browsersync
+  webpack
   normalize.css
   autoprefixer
   psotcss-mixins
   postcss-nested
   postcss-import
   
-  
+# the npm packages that might be used in future
+  babel
   
