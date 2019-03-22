@@ -1,0 +1,5 @@
+/* It is used to store the commonly used variables which are used thoroughly the course. like any colour 
+*  e.g: $mainBlue: #2f5572;
+*  the above declaration shows a rgb value defined as a variable which can be used in the css files which then wil be converted to it's 
+*  original value by cssVars plugin by postcss during the gulp task. */
+/* Don't forget to import it to the main styles.css file. */

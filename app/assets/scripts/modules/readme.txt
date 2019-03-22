@@ -1,0 +1,2 @@
+This is used to store the various blueprints(class) of JavaScript code which will be imported into the main JavaScript file and then we'll use
+webpack to configure the new way of writing the code in JavaScript newer version and still be able to support the most web browser.

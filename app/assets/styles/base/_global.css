@@ -1,0 +1,13 @@
+/* It contains only the global rules for the html files which are applied to the HTML files. */
+/* Don't forget to import it to the main styles.css file. */
+
+body {
+  font-family: 'Robato', sans-serif;
+  color: #333;
+  
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
