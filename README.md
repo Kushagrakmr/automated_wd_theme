@@ -13,6 +13,7 @@ Trying to create a folder/repo where you can download this repo and then start w
   psotcss-mixins
   postcss-nested
   postcss-import
+  postcss-automath
   
 # the npm packages that might be used in future
   babel
